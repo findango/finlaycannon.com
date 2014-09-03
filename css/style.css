@@ -1,0 +1,62 @@
+
+body {
+    background: #F1F1F1;
+
+    /*The Trebuchet-based sans serif stack:*/
+    font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+}
+
+span.logo {
+    color: #16796B;
+    font-family: 'Helvetica Neue', Helvetica, Helvetica, Arial, sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+    line-height: 70px;
+    margin-bottom: 10px;
+    white-space: nowrap;
+}
+
+a {
+	color: #16796B;
+}
+
+a:hover, a:focus {
+    color: #20B27F;
+}
+
+.highlight {
+    color: #888;
+}
+
+p.date {
+    color: #888;
+}
+
+ul.spaced li {
+	margin-bottom: 0.75rem;
+}
+
+ul.icons i {
+    min-width: 25px;
+    padding-bottom: 5px;
+    color: #888;
+}
+
+ul.pages {
+    padding-top: 27px; 
+    padding-right: 5px;
+    margin-bottom: 0px;
+    font-size: 1.2rem; 
+}
+
+ul.small-pages {
+    margin-left: 0px;
+    margin-bottom: 0px;
+    font-size: 1.2rem; 
+}
+
+ul.small-pages li {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px
+}

@@ -1,0 +1,10 @@
+name: ~finlay
+permalink: /:title
+markdown: redcarpet
+pygments: true
+exclude: [publish]
+
+# gallery_dir: photos
+# galleries:
+#   hawaii:
+#     best_image: Hawaii-13.jpg

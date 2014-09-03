@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+rsync $1 -avz --delete-after -e ssh _site/ finlaycannon.com:htdocs/
