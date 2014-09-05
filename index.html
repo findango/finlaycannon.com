@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-case_sensitive: true
 ---
 
 <div class="row">
@@ -13,7 +12,7 @@ case_sensitive: true
 <div class="row">
   <div class="small-12 columns">
 
-    {% assign sorted_pages = (site.posts | sort: 'title' ) %}
+    {% assign sorted_pages = (site.posts | sort_nocase: 'title' ) %}
     {% for page in sorted_pages %}
       <p>
         <strong><a href="{{ page.url }}/">{{ page.title }}.</a></strong>
