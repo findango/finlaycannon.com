@@ -3,7 +3,6 @@ date: 2012-02-25 17:56:33
 layout: post
 slug: reading-for-software-developers
 title: A reading list for Software Developers
-categories: reading
 excerpt: Allow me to suggest some aspects of development that you might
          consider to become better (and better-rounded).
 ---

@@ -13,6 +13,7 @@ span.logo {
     font-weight: bold;
     line-height: 70px;
     margin-bottom: 10px;
+    margin-left: -4px;
     white-space: nowrap;
 }
 
