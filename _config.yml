@@ -1,7 +1,7 @@
 name: ~finlay
 permalink: /:title
 markdown: redcarpet
-pygments: true
+highlighter: true
 exclude: [publish]
 
 # gallery_dir: photos
