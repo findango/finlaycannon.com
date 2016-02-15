@@ -1,8 +1,8 @@
 name: ~finlay
-permalink: /:title
+permalink: /:title/
 markdown: redcarpet
 highlighter: true
-exclude: [publish]
+exclude: [publish, build]
 
 # gallery_dir: photos
 # galleries:

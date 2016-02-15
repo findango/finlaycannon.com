@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+permalink: /about
 ---
 
 <div class="small-only-text-center">
