@@ -12,8 +12,8 @@ Code is at [https://github.com/findango/Wallpaper](https://github.com/findango/W
 
 <ul class="small-block-grid-2 medium-block-grid-3">
     <li>
-        <a class="th" role="button" href="/img/wallpaper/flowers.png">
-            <img src="/img/wallpaper/flowers.png">
+        <a class="th" role="button" href="flowers.png">
+            <img src="flowers.png">
         </a>
     </li>
 </ul>
@@ -23,8 +23,8 @@ Code is at [https://github.com/findango/Wallpaper](https://github.com/findango/W
 
 <ul class="small-block-grid-2 medium-block-grid-3">
     <li>
-        <a class="th" role="button" href="/img/wallpaper/starlite.png">
-            <img src="/img/wallpaper/starlite.png">
+        <a class="th" role="button" href="starlite.png">
+            <img src="starlite.png">
         </a>
     </li>
 </ul>
@@ -34,18 +34,18 @@ Code is at [https://github.com/findango/Wallpaper](https://github.com/findango/W
 
 <ul class="small-block-grid-2 medium-block-grid-3">
     <li>
-        <a class="th" role="button" href="/img/wallpaper/osaka-blue.png">
-            <img src="/img/wallpaper/osaka-blue.png">
+        <a class="th" role="button" href="osaka-blue.png">
+            <img src="osaka-blue.png">
         </a>
     </li>
     <li>
-        <a class="th" role="button" href="/img/wallpaper/osaka-green.png">
-            <img src="/img/wallpaper/osaka-green.png">
+        <a class="th" role="button" href="osaka-green.png">
+            <img src="osaka-green.png">
         </a>
     </li>
     <li>
-        <a class="th" role="button" href="/img/wallpaper/osaka-brown.png">
-            <img src="/img/wallpaper/osaka-brown.png">
+        <a class="th" role="button" href="osaka-brown.png">
+            <img src="osaka-brown.png">
         </a>
     </li>
 </ul>
