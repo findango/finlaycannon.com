@@ -13,7 +13,7 @@ permalink: /about
 
 #### Who are you, and what do you do?
 
-My name is Finlay. I work as a software architect at [SAP](http://sap.com/),
+My name is Finlay. I work as a software developer at [Splunk](https://splunk.com/), 
 here in Vancouver. Outside of the office, I love sailing, and I crew regularly
 on a couple of boats that race around Vancouver. We race fun weeknight  races
 in the summer, local regattas, and some overnight distance races in the  area.
@@ -27,24 +27,22 @@ a 27" Crossover LCD. It's a lot of pixels. I also watch movies on a projector
 -- I like the size of the image, and I don't want to have a TV screen in the
 apartment.
 
-I love my [Kindle Paperwhite](http://www.amazon.ca/Kindle-Paperwhite-
-Ereader/dp/B00CTUKFNQ) for reading. I originally wasn't sure about ebooks, but
+I love my [Kindle Paperwhite](http://www.amazon.ca/Kindle-Paperwhite-Ereader/dp/B00CTUKFNQ) 
+for reading. I originally wasn't sure about ebooks, but
 as soon as I used a Kindle, I was sold -- now I can carry every book I'm
 reading when I travel, and even just dip in for a couple of pages while riding
 the train to work. I do miss easily seeing what other people around me are
 reading, but [Goodreads](https://www.goodreads.com/user/show/6607576-finlay)
 is pretty nice, too.
 
-I recently picked up a  [Rancillio Silva](https://www.google.ca/search?q=ranci
-lio+silvia&source=lnms&tbm=isch&sa=X&ei=JWYDVMDWBsOUyASvpoCQCw&ved=0CAgQ_AUoAQ
-&biw=1091&bih=646) espresso machine, which is pretty sweet, but more than a
-little finicky to get right.
+I recently picked up a  [Rancillio Silva](https://www.google.ca/search?q=rancilio+silvia&tbm=isch) 
+espresso machine, which is pretty sweet, but more than a little finicky to get right.
 
 
 #### And what software?
 
 Apart from all the usual file stores and note-taking tools, there are a few
-apps that I find indespensible. [1Password](https://agilebits.com/onepassword)
+apps that I find indispensable. [1Password](https://agilebits.com/onepassword)
 for storing all your passwords and  keeping them in sync between machines,
 phones, etc, is outstanding. Stop using the same weak passwords all over the
 place. When I come across something I'm going to read later, I send it to
