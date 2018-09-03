@@ -2,9 +2,9 @@
 layout: default
 title: About
 permalink: "/about"
-published: false
 
 ---
+![](/files/2016-small.jpeg)
 
 #### Who are you, and what do you do?
 
