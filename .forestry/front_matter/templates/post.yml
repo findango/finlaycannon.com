@@ -6,3 +6,5 @@ fields:
 - type: tag_list
   name: categories
   label: Tags
+pages:
+- _posts/reading-2016.md
