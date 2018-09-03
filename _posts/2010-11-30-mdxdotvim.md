@@ -6,9 +6,9 @@ title: mdx.vim
 excerpt: Do you use vim, and need to edit MDX queries for your OLAP database?
 ---
 
-<img src="/img/mdx_screen.png">
+![](/files/mdx_screen.png)
 
-Do you use vim, and need to edit MDX queries for your OLAP database?  
+Do you use vim, and need to edit MDX queries for your OLAP database?
 Here's a vim plugin to help with that:
 
 [github.com/findango/vim-mdx](http://github.com/findango/vim-mdx)
