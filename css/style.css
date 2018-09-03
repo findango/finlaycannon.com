@@ -1,13 +1,13 @@
-
 body {
-    background: #F1F1F1;
+    background: #f1f1f1;
 
     /*The Trebuchet-based sans serif stack:*/
-    font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+    font-family: 'Segoe UI', Candara, 'Bitstream Vera Sans', 'DejaVu Sans', 'Bitstream Vera Sans',
+        'Trebuchet MS', Verdana, 'Verdana Ref', sans-serif;
 }
 
 span.logo {
-    color: #16796B;
+    color: #16796b;
     font-family: 'Helvetica Neue', Helvetica, Helvetica, Arial, sans-serif;
     font-size: 44px;
     font-weight: bold;
@@ -18,11 +18,13 @@ span.logo {
 }
 
 a {
-	color: #16796B;
+    color: #16796b;
 }
 
-a:hover, a:focus {
-    color: #20B27F;
+a:hover,
+a:focus {
+    color: #20b27f;
+    text-decoration: underline;
 }
 
 .highlight {
@@ -34,7 +36,7 @@ p.date {
 }
 
 ul.spaced li {
-	margin-bottom: 0.75rem;
+    margin-bottom: 0.75rem;
 }
 
 ul.icons i {
@@ -44,20 +46,20 @@ ul.icons i {
 }
 
 ul.pages {
-    padding-top: 27px; 
+    padding-top: 27px;
     padding-right: 5px;
     margin-bottom: 0px;
-    font-size: 1.2rem; 
+    font-size: 1.2rem;
 }
 
 ul.small-pages {
     margin-left: 0px;
     margin-bottom: 0px;
-    font-size: 1.2rem; 
+    font-size: 1.2rem;
 }
 
 ul.small-pages li {
     display: inline-block;
     padding-left: 10px;
-    padding-right: 10px
+    padding-right: 10px;
 }
