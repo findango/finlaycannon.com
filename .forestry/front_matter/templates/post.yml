@@ -6,5 +6,20 @@ fields:
 - type: tag_list
   name: categories
   label: Tags
+- type: text
+  name: slug
+  label: Slug
+- type: text
+  name: excerpt
+  label: Excerpt
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - post
+    - reading_list
+  label: Layout
 pages:
 - _posts/reading-2016.md
