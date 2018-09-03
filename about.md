@@ -1,14 +1,10 @@
 ---
 layout: default
-title: 'About'
-permalink: /about
+title: About
+permalink: "/about"
+published: false
+
 ---
-
-<div class="small-only-text-center">
-  <img src="/files/me_bw.jpg" width="280" height="280">
-</div>
-
-<p></p>
 
 #### Who are you, and what do you do?
 
@@ -22,7 +18,7 @@ I seem to spend a lot of time reading.
 
 At home I have a 15" MacBook Pro (with SSD, best upgrade ever!), together with
 a 27" Crossover LCD. It's a lot of pixels. I also watch movies on a projector
--- I like the size of the image, and I don't want to have a TV screen in the
+\-- I like the size of the image, and I don't want to have a TV screen in the
 apartment.
 
 I love my [Kindle Paperwhite](http://www.amazon.ca/Kindle-Paperwhite-Ereader/dp/B00CTUKFNQ)
@@ -61,6 +57,6 @@ that you see in [Bret Victor's
 demos](https://www.youtube.com/watch?v=PUv66718DII), or in the [Light Table
 IDE](http://www.lighttable.com/).
 
----
+***
 
 And if you didn't already guess, this page is inspired by [The Setup](http://usesthis.com/)
