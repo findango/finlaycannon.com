@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Home
----
 
+---
 <div class="row">
   <div class="small-12 columns">
     <h2>scribble, scribble...</h2>
@@ -15,7 +15,7 @@ title: Home
     {% assign sorted_posts = (site.posts | sort_nocase: 'title' ) %}
     {% for post in sorted_posts %}
       <p>
-        <strong><a href="{{ post.url }}/">{{ post.title }}.</a></strong>
+        <strong><a href="{{ post.url }}">{{ post.title }}.</a></strong>
         {{ post.excerpt | strip_html }}
       </p>
     {% endfor %}
