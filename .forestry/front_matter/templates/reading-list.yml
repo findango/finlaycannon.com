@@ -1,0 +1,18 @@
+---
+label: Reading List
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: excerpt
+  label: Excerpt
+- type: text
+  name: categories
+  label: Categories
+  hidden: true
+  default: reading
+- type: text
+  label: Layout
+  name: layout
+  hidden: true
+  default: reading_list
