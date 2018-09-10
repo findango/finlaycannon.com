@@ -10,22 +10,16 @@ Some tiling backgrounds that I drew after looking at pictures of vintage wallpap
 
 **Flowers**
 
-<ul class="small-block-grid-2 medium-block-grid-3">
-<li>
-<a class="th" role="button" href="flowers.png">
-<img src="flowers.png">
-</a>
-</li>
-</ul>
+<ul class="small-block-grid-2 medium-block-grid-3"> <li> <a class="th" role="button" href="flowers.png">  <img src="flowers.png"> </a> </li> </ul>
 
 **Starlite**
 
 <ul class="small-block-grid-2 medium-block-grid-3">
-<li>
-<a class="th" role="button" href="starlite.png">
-<img src="starlite.png">
-</a>
-</li>
+  <li>
+    <a class="th" role="button" href="starlite.png">
+        <img src="starlite.png">
+    </a>
+  </li>
 </ul>
 
 **Osaka**

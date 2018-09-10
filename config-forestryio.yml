@@ -1,0 +1,9 @@
+---
+name: "~finlay"
+permalink: "/:title/"
+markdown: redcarpet
+highlighter: true
+exclude:
+- publish
+- build
+timezone: America/Los_Angeles
