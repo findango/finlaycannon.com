@@ -4,17 +4,17 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: wallpaper
-  label: Wallpaper
-  create: all
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
 - type: jekyll-posts
   label: Posts
   create: all
+- type: directory
+  path: wallpaper
+  label: Wallpaper
+  create: all
+  match: "**/*"
 upload_dir: files
 public_path: "/files"
 front_matter_path: ''
