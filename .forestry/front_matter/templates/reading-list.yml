@@ -16,3 +16,5 @@ fields:
   name: layout
   hidden: true
   default: reading_list
+pages:
+- _posts/reading-2017.md
