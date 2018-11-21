@@ -1,9 +1,10 @@
 name: ~finlay
+url: http://finlaycannon.com/
+repository: 'findango/finlaycannon.com'
 permalink: /:title/
 markdown: redcarpet
 highlighter: true
 exclude: [publish, build]
-
 # gallery_dir: photos
 # galleries:
 #   hawaii:
