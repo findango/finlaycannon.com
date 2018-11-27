@@ -22,4 +22,5 @@ fields:
   name: categories
   label: Tags
 pages:
+- _posts/2011-02-04-reading-2011.md
 - _posts/2018-09-03-reading-2016.md
