@@ -28,5 +28,7 @@ fields:
   default: reading_list
 pages:
 - _posts/2010-11-30-reading-2010.md
+- _posts/2014-09-13-reading-2014.md
+- _posts/2012-01-11-reading-2012.md
 - _posts/2011-02-04-reading-2011.md
 - _posts/2018-09-15-reading-2017.md
