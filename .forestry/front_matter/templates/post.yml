@@ -3,15 +3,6 @@ label: Post
 hide_body: false
 is_partial: false
 fields:
-- type: tag_list
-  name: categories
-  label: Tags
-- type: text
-  name: slug
-  label: Slug
-- type: text
-  name: excerpt
-  label: Excerpt
 - type: select
   name: layout
   config:
@@ -21,5 +12,14 @@ fields:
     - post
     - reading_list
   label: Layout
+- type: text
+  name: slug
+  label: Slug
+- type: text
+  name: excerpt
+  label: Excerpt
+- type: tag_list
+  name: categories
+  label: Tags
 pages:
 - _posts/2018-09-03-reading-2016.md
